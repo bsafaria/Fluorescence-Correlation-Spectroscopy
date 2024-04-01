@@ -22,6 +22,18 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
+Fluorescence correlation spectroscopy (FCS) is a technique that detects diffusion of fluorescent
+species through a small focal volume. From FCS measurements, quantitative data such as particle
+size, binding constants for interactions of biological molecules, and local viscosity can be probed.
+Because this technique relies on the detection of small numbers of fluorescent species at a time, it
+is well suited to probing the heterogeneity of behaviours in a system.
+
+The primary objectives of the experiment were to:
+
+1. Use the signal detected from FCS of standard-sized particles to determine the extent of the
+focal volume of a laser beam
+
+2. Determine the expected FCS signal for particles of different size
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
