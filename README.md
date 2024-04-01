@@ -38,7 +38,7 @@
 
 Behzad Safarian Kashani - [LinkedIn](https://www.linkedin.com/in/bsk00/) - bsafariak@gmail.com
 
-Project Link: [https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy-](https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy-)
+Project Link: [https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy-](https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,6 +56,6 @@ Project Link: [https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy-/blob/main/Laser%20Setup.jpg?raw=true
+[product-screenshot]: https://github.com/bsafaria/Fluorescence-Correlation-Spectroscopy/blob/main/Laser%20Setup.jpg?raw=true
 [Scipy.svg]: https://scipy.org/images/logo.svg
 [Scipy-url]: https://scipy.org/
